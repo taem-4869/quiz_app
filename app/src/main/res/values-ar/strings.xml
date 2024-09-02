@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سؤال واختيار</string>
+    <string name="welcome_in_question_selection"><![CDATA[مرحبا بك في سؤال واختيار]]></string>
+    <string name="choose_how_to_play">اختر وضعا وأثبت معرفتك</string>
+    <string name="go_solo">امض منفردا</string>
+    <string name="next_question">السؤال التالي</string>
+    <string name="withdraw">انسحاب</string>
+    <string name="solo_quiz">تحدي منفرد</string>
+    <string name="congratulation">تهانينا، لقذ فزت</string>
+    <string name="you_lose">لقد خسرت</string>
+    <string name="among_answers_you_got">من بين %1$s من الأسئلة، جنيت من الأخطاء %2$s</string>
+    <string name="_1vs1">1 ضد 1</string>
+    <string name="match_quiz_coming_soon">تحدي مزدوج، يأتي قريبا...</string>
+</resources>

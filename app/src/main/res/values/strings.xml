@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="welcome_in_question_selection"><![CDATA[Welcome in Question & Selection]]></string>
+    <string name="choose_how_to_play">Choose a mode and prove your knowledge</string>
+    <string name="go_solo">Go solo</string>
+    <string name="next_question">Next question</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="solo_quiz">Solo Quiz</string>
+    <string name="congratulation">Congratulation, You win</string>
+    <string name="you_lose">You Lose</string>
+    <string name="among_answers_you_got">Among %1$s answers, you got %2$s strikes</string>
+    <string name="_1vs1">1vs1</string>
+    <string name="match_quiz_coming_soon">Match Quiz, Coming soon</string>
+    <string name="solo_loseing_result">Among %1$s answers you got %2$s, you will do better next time</string>
+    <string name="solo_winning_result">Among %1$s answers you got %2$s, you did it</string>
+</resources>
